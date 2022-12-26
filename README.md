@@ -1,4 +1,5 @@
 learning-javascript
 ===================
 
-Repositório de aprendizado da linguagem javascript e seus frameworks
+Repositório de aprendizado da linguagem javascript e seus frameworks a ser 
+reformulado.
